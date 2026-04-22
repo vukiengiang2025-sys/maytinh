@@ -1,0 +1,6 @@
+{
+  "appId": "com.smartycalc.app",
+  "appName": "SmartyCalc",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

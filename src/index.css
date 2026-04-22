@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Quicksand", ui-sans-serif, system-ui, sans-serif;
+  --color-brand-yellow: #FFD93D;
+  --color-brand-yellow-dark: #7A6B2C;
+  --color-brand-pink: #FF8E9E;
+  --color-brand-bg: #FFF9F2;
+}
+
+@layer base {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

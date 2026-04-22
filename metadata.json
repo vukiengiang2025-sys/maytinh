@@ -1,0 +1,6 @@
+{
+  "name": "SmartyCalc - Máy Tính Thông Minh",
+  "description": "Ứng dụng máy tính cầm tay dễ thương, hỗ trợ toán học từ cơ bản đến phức tạp (Lớp 1 - Lớp 12), hỗ trợ build APK qua GitHub Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
